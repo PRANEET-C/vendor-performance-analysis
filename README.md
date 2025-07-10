@@ -11,5 +11,4 @@ The goal of this analysis is to:
 - Analyze the impact of bulk purchasing on unit costs.
 
 - Assess inventory turnover to reduce holding costs and improve efficiency.
-
 - Investigate the profitability variance between high-performing and low-performing vendors.
